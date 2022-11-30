@@ -7,7 +7,7 @@
 
 **Mint Spl-token:**
 
-Please use *[ming-fungible-spl-token](https://github.com/stream-protocol/mint-fungible-spl-token)* to mint spl-token easily.
+Please use *[mint-fungible-spl-token](https://github.com/stream-protocol/mint-fungible-spl-token)* to mint spl-token easily.
 
 **Setup environment file:**
 
