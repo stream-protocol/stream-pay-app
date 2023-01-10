@@ -1,4 +1,4 @@
-# Stream Pay
+# StreamPay Demo Application
 
 **[Stream Pay App Demo](https://stream-pay-demo-app.netlify.app)** is the test project for using *[Solana Pay](https://solanapay.com/)* easily on Solana devnet.
 
