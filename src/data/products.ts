@@ -4,7 +4,7 @@ export const products = [
     name: "STR",
     description: "Top up your wallet with Stream Tokens!",
     unitName: "token",
-    priceSol: 0.05,
+    priceSol: 0.06,
     priceUSD: 1,
   },
 ];
